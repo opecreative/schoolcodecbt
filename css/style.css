@@ -1,0 +1,46 @@
+
+body{}
+.form{
+	margin-left:auto; 
+	margin-right:auto;
+	width:50%;
+	background:#CBEFFA;
+	padding:20px;
+	box-shadow: 5px 5px 5px;
+	border-radius: 15px;
+	-moz-border-radius: 5px;
+	
+	
+	}
+.cur{margin-left:-10px; font-size:18px;}
+.form input{height:50px;}
+tr:hover{background:#CCC;}
+
+.add-form{
+	width:70%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.navigation{}
+/*MC page*/
+a:hover{}
+#banner{font-family:Verdana, Geneva, sans-serif; font-size:16px; text-align:center;}
+#q_panel{margin-top:20px; }
+table, span, div{border-collapse:collapse ; ex-border-collapse:collapse}
+#reg_table{
+	margin-top:50px;
+	border:1px solid #fff; 
+	margin:50px auto 20px auto; 
+	padding:20px;
+	box-shadow: 0px 5px 5px #000;
+	width:50%;
+
+}
+input[type=radio]{width:100px;}
+.comment{margin-left:200px;}
+/*MC*/
+.comment{ margin-left:auto; margin-right:auto; color:red;}
+/*add candidate*/
+.info{margin-top:200px; border:1px solid #000;}
+/*admin page - settings*/
+.type1_error{color:red; font-size:10px; margin:auto;}
